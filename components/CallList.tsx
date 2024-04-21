@@ -1,12 +1,4 @@
-import React from 'react'
-
-const CallList = () => {
-  return (
-    <div>CallList</div>
-  )
-}
-
-export default CallList'use client';
+'use client';
 
 import { Call, CallRecording } from '@stream-io/video-react-sdk';
 
